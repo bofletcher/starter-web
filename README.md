@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 DEPLOY
 
 ## How To Contribute
+
+### Cpoyright
+
+Git Training Copyright

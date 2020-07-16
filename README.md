@@ -16,7 +16,7 @@ DEPLOY
 
 ## How To Contribute
 
-Fokr Repository
+FORK Repository
 
 ### Cpoyright
 

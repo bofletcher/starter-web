@@ -8,8 +8,10 @@
 # THANKS
 
     THANK YOU
+    SOME TEXT
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+

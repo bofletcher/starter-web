@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simplr website project for showing how to use Git and Github together. Rebasing is cool.
+This is a simplr website project for showing how to use Git and Github together. Rebasing is cool. Stashing is cool too.
 
 ## Intoduction
 
